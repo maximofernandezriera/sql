@@ -14,3 +14,8 @@ CREATE TABLE series(
 ### Insert ...
 
 INSERT INTO `favorites`(`Timestamp`,`title`,`genres`) VALUES ("10/25/2021 11:21:46","How i met your mother","Comedy");
+
+
+# Show all customers table columms.
+
+SELECT * FROM Customers;
